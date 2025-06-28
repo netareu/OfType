@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Code\\OfType\\OfType\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1656380B-88C5-4B6E-BB99-A79FD1839B4E}|OfType\\OfType.csproj|c:\\code\\oftype\\oftype\\oftype\\ioftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1656380B-88C5-4B6E-BB99-A79FD1839B4E}|OfType\\OfType.csproj|solutionrelative:oftype\\ioftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1656380B-88C5-4B6E-BB99-A79FD1839B4E}|OfType\\OfType.csproj|c:\\code\\oftype\\oftype\\oftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1656380B-88C5-4B6E-BB99-A79FD1839B4E}|OfType\\OfType.csproj|solutionrelative:oftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IOfType.cs",
+              "DocumentMoniker": "C:\\Code\\OfType\\OfType\\OfType\\IOfType.cs",
+              "RelativeDocumentMoniker": "OfType\\IOfType.cs",
+              "ToolTip": "C:\\Code\\OfType\\OfType\\OfType\\IOfType.cs",
+              "RelativeToolTip": "OfType\\IOfType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:25:05.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\OfType\\OfType\\OfType\\Program.cs",
               "RelativeDocumentMoniker": "OfType\\Program.cs",
