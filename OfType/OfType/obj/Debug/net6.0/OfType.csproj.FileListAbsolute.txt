@@ -1,0 +1,15 @@
+C:\Code\OfType\OfType\OfType\bin\Debug\net6.0\OfType.exe
+C:\Code\OfType\OfType\OfType\bin\Debug\net6.0\OfType.deps.json
+C:\Code\OfType\OfType\OfType\bin\Debug\net6.0\OfType.runtimeconfig.json
+C:\Code\OfType\OfType\OfType\bin\Debug\net6.0\OfType.dll
+C:\Code\OfType\OfType\OfType\bin\Debug\net6.0\OfType.pdb
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\OfType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\OfType.AssemblyInfoInputs.cache
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\OfType.AssemblyInfo.cs
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\OfType.csproj.CoreCompileInputs.cache
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\OfType.sourcelink.json
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\OfType.dll
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\refint\OfType.dll
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\OfType.pdb
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\OfType.genruntimeconfig.cache
+C:\Code\OfType\OfType\OfType\obj\Debug\net6.0\ref\OfType.dll
